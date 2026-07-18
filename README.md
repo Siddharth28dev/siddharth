@@ -279,7 +279,7 @@
 
     <g transform="translate(36,80)">
       <text x="0" y="0" font-family="'SFMono-Regular',monospace" font-size="24" font-weight="700" fill="#F8FAFC">
-        Hi <tspan fill="#F8FAFC">👋</tspan> I'm <tspan fill="url(#accentGrad)">Your Name</tspan>
+        Hi <tspan fill="#F8FAFC">👋</tspan> I'm <tspan fill="url(#accentGrad)">Siddharth Srivastava</tspan>
       </text>
 
       <g transform="translate(0,40)">
