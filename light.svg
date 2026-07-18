@@ -279,7 +279,7 @@
 
     <g transform="translate(36,80)">
       <text x="0" y="0" font-family="'SFMono-Regular',monospace" font-size="24" font-weight="700" fill="#0F172A">
-        Hi <tspan fill="#0F172A">👋</tspan> I'm <tspan fill="url(#accentGrad)">Your Name</tspan>
+        Hi <tspan fill="#0F172A">👋</tspan> I'm <tspan fill="url(#accentGrad)">Siddharth Srivastava</tspan>
       </text>
 
       <g transform="translate(0,40)">
@@ -316,7 +316,7 @@
         <g class="info-row" opacity="0" transform="translate(0,330)">
           <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.2857;0.3071" dur="14s" begin="0s" repeatCount="indefinite" />
           <text x="0" y="0" font-family="'SFMono-Regular',monospace" font-size="13.5" fill="#475569">📍  Location:</text>
-          <text x="150" y="0" font-family="'SFMono-Regular',monospace" font-size="13.5" fill="#0F172A" font-weight="600">Kanpur, India</text>
+          <text x="150" y="0" font-family="'SFMono-Regular',monospace" font-size="13.5" fill="#0F172A" font-weight="600">Prayagraj, India</text>
         </g>
         <g class="info-row" opacity="0" transform="translate(0,360)">
           <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3107;0.3321" dur="14s" begin="0s" repeatCount="indefinite" />
@@ -331,12 +331,12 @@
         <g class="info-row" opacity="0" transform="translate(0,420)">
           <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3607;0.3821" dur="14s" begin="0s" repeatCount="indefinite" />
           <text x="0" y="0" font-family="'SFMono-Regular',monospace" font-size="13.5" fill="#475569">🔗  Portfolio:</text>
-          <text x="150" y="0" font-family="'SFMono-Regular',monospace" font-size="13.5" fill="#0F172A" font-weight="600">yourportfolio.dev</text>
+          <text x="150" y="0" font-family="'SFMono-Regular',monospace" font-size="13.5" fill="#0F172A" font-weight="600">https://portfolio-sigma-lyart-44.vercel.app/</text>
         </g>
         <g class="info-row" opacity="0" transform="translate(0,450)">
           <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3857;0.4071" dur="14s" begin="0s" repeatCount="indefinite" />
           <text x="0" y="0" font-family="'SFMono-Regular',monospace" font-size="13.5" fill="#475569">✉️  Email:</text>
-          <text x="150" y="0" font-family="'SFMono-Regular',monospace" font-size="13.5" fill="#0F172A" font-weight="600">you@example.com</text>
+          <text x="150" y="0" font-family="'SFMono-Regular',monospace" font-size="13.5" fill="#0F172A" font-weight="600">shivsrivastav582@gmail.com</text>
         </g>
 
       <text x="0" y="506" font-family="'SFMono-Regular',monospace" font-size="13" fill="#475569" letter-spacing="2">SKILLS</text>
